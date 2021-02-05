@@ -23,6 +23,10 @@ const choices = [
   'About the time you were most drunk',
   'About an instrument you can/cannot play',
   'About the worst like you have ever told',
+  'About your party trick',
+  'About the most ridiculous thing you have lost your temper over',
+  'About a near death experience',
+  'Starting "The last text I sent said..."',
 ];
 
 function truthOrLie() {
