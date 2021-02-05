@@ -21,7 +21,8 @@ const choices = [
   'Starting with "The most embarassing thing to ever happen to me was..."',
   "Starting with 'My guilty pleasure is...'",
   'About the time you were most drunk',
-  '',
+  'About an instrument you can/cannot play',
+  'About the worst like you have ever told',
 ];
 
 function truthOrLie() {
